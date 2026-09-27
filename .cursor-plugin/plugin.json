@@ -1,0 +1,14 @@
+{
+  "name": "notebooklm-code",
+  "displayName": "NotebookLM Code",
+  "version": "0.1.0",
+  "description": "Work with consumer Google NotebookLM (notebooklm.google.com) from Cursor / Grok Bot: community MCP setup, notebook sources, and grounded Q&A. No official public API - uses session-based MCP or browser fallback.",
+  "author": {
+    "name": "Lovin Maxwell",
+    "email": "lovinmaxwell@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["notebooklm", "google", "gemini", "mcp", "research"],
+  "logo": "assets/logo.svg",
+  "skills": "./skills/"
+}
